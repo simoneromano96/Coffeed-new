@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "coffeed-server/auth-service"
+    },
+    {
+      "path": "coffeed-server/coffees-service"
+    },
+    {
+      "path": "coffeed-client"
+    },
+    {
+      "path": "coffeed-server/api-gateway"
+    },
+    {
+      "path": "coffeed-server/upload-service"
+    }
+  ]
+}
